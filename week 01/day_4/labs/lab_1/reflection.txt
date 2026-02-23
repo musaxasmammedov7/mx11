@@ -1,2 +1,2 @@
-Ваш запрос
+
 Generally both scrum and devops work with the same features like agility,speed,high quality.I will try to explain with various points.The Sprint review and Daily scrum mirror the DevOps principle of feedback loops.During CI and CD when the team follows a DoD like automated testing and code review,they ensure that the code is stable and ready for deployment.Devops goal's is working development and operaton team as one team.Scrum supports cross-functional teams.Both of it means that communication is very important.
